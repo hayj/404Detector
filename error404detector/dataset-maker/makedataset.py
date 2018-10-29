@@ -68,7 +68,7 @@ from systemtools.file import *
 from systemtools.location import *
 from systemtools.basics import *
 from systemtools.hayj import *
-from datatools.json import *
+from datatools.jsonreader import *
 from datatools.csvreader import *
 from webcrawler.crawler import *
 from hjwebbrowser.utils import *

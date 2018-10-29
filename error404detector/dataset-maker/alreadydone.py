@@ -5,7 +5,7 @@ from databasetools.mongo import *
 from systemtools.file import *
 from systemtools.location import *
 from systemtools.basics import *
-from datatools.json import *
+from datatools.jsonreader import *
 from datatools.csvreader import *
 from hjwebbrowser.utils import *
 from hjwebbrowser.browser import *

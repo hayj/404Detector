@@ -1,7 +1,0 @@
-sklearn
-html2text
-scipy
-lxml
-beautifulsoup4
-sh
-autosklearn
